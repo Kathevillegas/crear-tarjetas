@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+display: flex;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    border: solid 1px lightblue;
+    width: 100%;
+    height: 1;
+    margin-left: 20px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.cards{
+    border: solid 1px;
+    background-image: url(https://th.bing.com/th/id/R.0e79384f2a0ebcd969717804a2c6bdeb?rik=V%2blcpdlax7nWeQ&riu=http%3a%2f%2fmaxpeed.com%2fwp-content%2fuploads%2f2013%2f07%2ffondo-claro-1024x640.jpg&ehk=fD5QRAm%2ffvZMzQ%2bxJJRz9hRBCLQwJRdf3ZC6ll5DMkM%3d&risl=&pid=ImgRaw&r=0);
+    
+}
+
+.button{
+    border: solid 1px;
+    background-image: url(https://ak9.picdn.net/shutterstock/videos/21979669/thumb/1.jpg);
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    cursor: pointer;
+    font-size: inherit;
+    line-height: inherit;
+
+    
+}
+
+.tarjeta{
+    border: solid 1px;
+    background-repeat: no-repeat;
+    background-size: 5px;
+
+}
